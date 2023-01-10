@@ -1,0 +1,13 @@
+GET
+{BASE_URL}/recipes/random
+&apiKey={apiKey}
+&number={number}
+
+
+
+
+%%%
+# GET
+# /recipes/random?&apiKey={apiKey}&number={number}
+
+# Error: java.lang.IllegalArgumentException: Expected URL scheme 'http' or 'https' but no colon was found

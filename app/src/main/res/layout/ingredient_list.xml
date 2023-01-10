@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    app:cardElevation="8dp"
+    android:outlineSpotShadowColor="@color/teal_200"
+    app:cardBackgroundColor="@color/white"
+    android:layout_margin="8dp">
+<LinearLayout
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:orientation="vertical">
+    <TextView
+        android:id="@+id/ingrequantity"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textColor="@color/black"
+        android:textAlignment="center"
+        android:text="2 PC"
+        android:padding="4dp"
+        android:textSize="16sp"
+        android:singleLine="true"
+        android:ellipsize="marquee"
+        android:marqueeRepeatLimit="marquee_forever"
+        android:scrollHorizontally="true"/>
+    <ImageView
+        android:id="@+id/ingreImg"
+        android:scaleType="center"
+        android:layout_width="80dp"
+        android:layout_height="50dp"/>
+    <TextView
+        android:id="@+id/ingreName"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:textColor="@color/black"
+        android:textAlignment="center"
+        android:text="Milk"
+        android:singleLine="true"
+        android:ellipsize="marquee"
+        android:marqueeRepeatLimit="marquee_forever"
+        android:scrollHorizontally="true"
+        android:textStyle="bold"
+        android:padding="4dp"
+        android:textSize="16sp"/>
+
+</LinearLayout>
+</androidx.cardview.widget.CardView>

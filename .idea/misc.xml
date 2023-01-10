@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/DK/.gradle/caches/transforms-3/5d666d306352f7fdca8df50525096bc2/transformed/appcompat-1.5.1/res/layout/support_simple_spinner_dropdown_item.xml" value="0.1628901239846088" />
+        <entry key="..\:/Users/DK/AndroidStudioProjects/Food/app/src/main/res/drawable/anim_list.xml" value="0.19" />
+        <entry key="..\:/Users/DK/AndroidStudioProjects/Food/app/src/main/res/drawable/card_shap.xml" value="0.2065" />
+        <entry key="..\:/Users/DK/AndroidStudioProjects/Food/app/src/main/res/drawable/down.xml" value="0.2075" />
+        <entry key="..\:/Users/DK/AndroidStudioProjects/Food/app/src/main/res/drawable/four.xml" value="0.19" />
+        <entry key="..\:/Users/DK/AndroidStudioProjects/Food/app/src/main/res/drawable/one.xml" value="0.19" />
+        <entry key="..\:/Users/DK/AndroidStudioProjects/Food/app/src/main/res/drawable/serve.xml" value="0.2075" />
+        <entry key="..\:/Users/DK/AndroidStudioProjects/Food/app/src/main/res/drawable/three.xml" value="0.19" />
+        <entry key="..\:/Users/DK/AndroidStudioProjects/Food/app/src/main/res/drawable/two.xml" value="0.19" />
+        <entry key="..\:/Users/DK/AndroidStudioProjects/Food/app/src/main/res/layout/activity_main.xml" value="0.18" />
+        <entry key="..\:/Users/DK/AndroidStudioProjects/Food/app/src/main/res/layout/ingredient_list.xml" value="0.18" />
+        <entry key="..\:/Users/DK/AndroidStudioProjects/Food/app/src/main/res/layout/recipe_details_activity.xml" value="0.22" />
+        <entry key="..\:/Users/DK/AndroidStudioProjects/Food/app/src/main/res/layout/recipelist.xml" value="0.22" />
+        <entry key="..\:/Users/DK/AndroidStudioProjects/Food/app/src/main/res/layout/similar_list_recipe.xml" value="0.25" />
+        <entry key="..\:/Users/DK/AndroidStudioProjects/Food/app/src/main/res/layout/similar_recipe.xml" value="0.2" />
+        <entry key="..\:/Users/DK/AndroidStudioProjects/Food/app/src/main/res/layout/summary_bottom.xml" value="0.16417272338606242" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
